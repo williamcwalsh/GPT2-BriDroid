@@ -16,7 +16,8 @@ This is a fine-tuned version of GPT-2 trained on thousands of real group chat me
 ## How to Use It
 
 ### Step 1: Download and unzip the model folder
-Download brio_model.zip from the first release or under this text, unzip it, and note the folder path.
+Download brio_model.zip from the first version release, unzip it, and note the folder path.
+Here is a link to the version:
 https://github.com/williamcwalsh/GPT2-BriDroid/releases/tag/v1.0
 
 
